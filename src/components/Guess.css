@@ -1,0 +1,11 @@
+.Guess {
+  padding-top: 10px;
+}
+
+.Guess lable, .Guess input, .Guess button {
+  margin-top: 10px;
+}
+
+.Guess label {
+  font-weight: bold;
+}
